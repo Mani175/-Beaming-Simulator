@@ -1,3 +1,4 @@
+# coded by Mani.#0001
 import random
 import time
 import requests
@@ -81,9 +82,8 @@ while True:
         else:
             print("Converting "+rbx2money+" Robux to Money....")
             robux -= int(rbx2money)
-            nigga_rbx = int(rbx2money)
-            nigga_rbx *= 0.0125
-            money = nigga_rbx
+            money += int(rbx2money) * 0.0125
+
             print("Money Balance : "+str(money))
             print("Robux Balance : "+str(robux))
     elif command_user == "!money":
