@@ -9,4 +9,4 @@ add more paid methods
 add more npc dialogues
 ```
 # 🧾 How to play
-** Simply open the game, at first type your RP Name, for example (Johnny Beamer) smth like that , then type !help to get list of commands in game! **
+**Simply open the game, at first type your RP Name, for example (Johnny Beamer) smth like that , then type !help to get list of commands in game!**
