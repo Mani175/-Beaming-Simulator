@@ -1,5 +1,5 @@
 # 👑Beaming 🍪 Simulator 💀
-Story (IN-GAME) : You learned some methods from https://discord.gg/nNRyWJbc6m then you're here to beam people !!! when you get huge profits, you can buy paid methods and GET EVEN MORE PROFIT !!!
+Story (IN-GAME) : **You learned some methods from https://discord.gg/nNRyWJbc6m then you're here to beam people !!! when you get huge profits, you can buy paid methods and GET EVEN MORE PROFIT !!!**
 # 📝 To Do
 ```
 Add more methods
