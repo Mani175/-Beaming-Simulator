@@ -3,7 +3,7 @@ import time
 import requests
 import os
 import json
-beamem_orna = [True,False]
+beamem_orna = [True,False,False,True,False,True]
 dualhook_orna = [True,False,False,True,False,True]
 if os.name == "nt":
     os.system("color 2")
@@ -57,7 +57,7 @@ while True:
     elif command_user == "!dualhook":
         print("Sent dualhooked generator to other beamers.\n")
         dualhook += 1
-        time.sleep(3)
+        time.sleep(1.5)
         cls()
 
     elif command_user == "!hits":
@@ -70,7 +70,7 @@ while True:
                 totalrbxmade = random.randrange(1,250*dualhook)
                 print(
                     f"You gained {str(accs)} Accounts & {str(totalrbxmade)} Robux by sending your dualhooked generator to other beamers.")
-                time.sleep(3)
+                time.sleep(2)
                 robux += totalrbxmade
             else:
                 print("You haven't gotten any hits")
@@ -89,9 +89,17 @@ while True:
         if gonna_beam == True:
             print(victim_name+" >> "+random.choice(beamed_them))
             profit = random.randrange(2,12344)
-            time.sleep(3.5)
+            password = requests.get("https://www.passwordrandom.com/query?command=password").text
+            summary = random.randrange(0,99999)
+            rap = random.randrange(1,1000)
+            value = random.randrange(1,1000)
+            time.sleep(1)
 
-            print("\nYou beamed "+str(profit)+" out of "+victim_name)
+            print("\nVictim Name : "+victim_name)
+            print("Robux Balance : "+str(profit))
+            print("Password : "+password)
+            print("Summary : "+str(summary))
+            print(f"\nYou beamed {profit} Robux out of "+victim_name)
             robux += profit
             print("Your Robux Balance : "+str(robux))
         else:
