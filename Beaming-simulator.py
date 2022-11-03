@@ -23,7 +23,7 @@ def cls():
         os.system("clear")
 
 beamed_them = ["ohhh ok lemme go there\n(beamed them and their pin was 1548 XD)","soo it looks sus but lemme go in that link\n(they clicked  and you took their robux + adopt me pets)","why not, i'll do that, wait...\n(beamed them after 1 minutes took their robux plus mm2 knifes)","i got scammed before by this, but i trust you, let me go there.... \n(bro got scammed 2 times , but still had some robux)","finally someone dmed me, ofc, just wait \n(you took their robux + ingame items)","OH Ok, after that wanna be my friend \n(POV: He's 9 years old and he had lots of robux and you took them)"]
-notbeamed_them = ["its scam link \n(blocked u)","NIGGGERRRR I WONT CLICK THAT SHIT \n(simply reported you and blocked)","shit... get a life i wont click your shit \n(blocked u)","lol im a beamer too.... dont try to beam me \n(just not responded after that)","nigga tryna beam me \n(blocked you)","no \n(blocked and banned from the server you used to dm them)","goofy ahh nigga get a life \n(blocked u)"]
+notbeamed_them = ["its scam link \n(blocked u)","NIGGGERRRR I WONT CLICK THAT SHIT \n(simply reported you and blocked)","shit... get a life i wont click your shit \n(blocked u)","lol im a beamer too.... dont try to beam me \n(just not responded after that)","bro tryna beam me \n(blocked you)","no \n(blocked and banned from the server you used to dm them)","goofy ahh get a life \n(blocked u)"]
 print("\nI DO NOT CONDONE BEAMING AND COMPROMISING ROBLOX ACCOUNTS ON THIS GAME, JUST MADE THIS FOR FUN\n")
 time.sleep(2)
 
